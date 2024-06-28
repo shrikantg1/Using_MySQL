@@ -1,0 +1,13 @@
+1.CRUD using MERN and redux
+2.image post using full stack and redux
+3.Image slide using react /carousel
+4.log in using MERN (JWT auth)
+5.form validation using react
+6.true or false in react
+7.onclick {id} handle(routing)
+8.API handling using react
+9.checkbox crud operation
+10.drag and drop using react
+11.counter
+12.accordion
+13.button filtration using react
