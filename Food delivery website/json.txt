@@ -1,0 +1,253 @@
+Sure, here is the updated JSON data with added descriptions, Indian prices, and categories:
+
+```json
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Classic Margherita Pizza",
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "description": "A traditional Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+      "price": "₹300",
+      "category": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Stir-Fry",
+      "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+      "description": "A healthy and colorful mix of vegetables stir-fried with a light soy sauce.",
+      "price": "₹200",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Chip Cookies",
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "description": "Classic American cookies loaded with gooey chocolate chips.",
+      "price": "₹150",
+      "category": "Dessert"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Alfredo Pasta",
+      "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+      "description": "Creamy pasta dish made with tender chicken and Alfredo sauce.",
+      "price": "₹350",
+      "category": "Pasta"
+    },
+    {
+      "id": 5,
+      "name": "Mango Salsa Chicken",
+      "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
+      "description": "Grilled chicken topped with a fresh and tangy mango salsa.",
+      "price": "₹280",
+      "category": "Chicken"
+    },
+    {
+      "id": 6,
+      "name": "Quinoa Salad with Avocado",
+      "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+      "description": "A nutritious salad made with quinoa, avocado, and fresh vegetables.",
+      "price": "₹250",
+      "category": "Salad"
+    },
+    {
+      "id": 7,
+      "name": "Tomato Basil Bruschetta",
+      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+      "description": "Toasted bread topped with a mixture of fresh tomatoes, basil, and olive oil.",
+      "price": "₹180",
+      "category": "Appetizer"
+    },
+    {
+      "id": 8,
+      "name": "Beef and Broccoli Stir-Fry",
+      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+      "description": "Tender beef stir-fried with broccoli in a savory sauce.",
+      "price": "₹320",
+      "category": "Beef"
+    },
+    {
+      "id": 9,
+      "name": "Caprese Salad",
+      "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+      "description": "A simple Italian salad made with fresh tomatoes, mozzarella, and basil.",
+      "price": "₹200",
+      "category": "Salad"
+    },
+    {
+      "id": 10,
+      "name": "Shrimp Scampi Pasta",
+      "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
+      "description": "Pasta tossed with shrimp in a garlic butter and white wine sauce.",
+      "price": "₹400",
+      "category": "Seafood"
+    },
+    {
+      "id": 11,
+      "name": "Chicken Biryani",
+      "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+      "description": "A fragrant rice dish made with basmati rice, spices, and tender chicken pieces. Perfect for special occasions.",
+      "price": "₹250",
+      "category": "Chicken"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Karahi",
+      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+      "description": "A flavorful Pakistani dish made with chicken, tomatoes, and green chilies, cooked in a wok-like pan called a karahi.",
+      "price": "₹200",
+      "category": "Chicken"
+    },
+    {
+      "id": 13,
+      "name": "Aloo Keema",
+      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+      "description": "A comforting dish made with minced meat (keema) and potatoes (aloo), seasoned with aromatic spices.",
+      "price": "₹180",
+      "category": "Beef"
+    },
+    {
+      "id": 14,
+      "name": "Chapli Kebabs",
+      "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
+      "description": "Spicy minced meat patties from Pakistan, flavored with a variety of spices and herbs, perfect as a starter or snack.",
+      "price": "₹150",
+      "category": "Beef"
+    },
+    {
+      "id": 15,
+      "name": "Saag (Spinach) with Makki di Roti",
+      "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+      "description": "A traditional Punjabi dish made with mustard greens and spinach, served with cornmeal flatbread.",
+      "price": "₹120",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 16,
+      "name": "Japanese Ramen Soup",
+      "image": "https://cdn.dummyjson.com/recipe-images/16.webp",
+      "description": "A Japanese noodle soup with a rich, flavorful broth, served with various toppings like pork, nori, and scallions.",
+      "price": "₹300",
+      "category": "Soup"
+    },
+    {
+      "id": 17,
+      "name": "Moroccan Chickpea Tagine",
+      "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
+      "description": "A Moroccan stew made with chickpeas, vegetables, and spices, slow-cooked to perfection.",
+      "price": "₹220",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 18,
+      "name": "Korean Bibimbap",
+      "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
+      "description": "A Korean rice dish served with mixed vegetables, beef, a fried egg, and a spicy gochujang sauce.",
+      "price": "₹350",
+      "category": "Beef"
+    },
+    {
+      "id": 19,
+      "name": "Greek Moussaka",
+      "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
+      "description": "A Greek casserole made with layers of eggplant, minced meat, and béchamel sauce, baked until golden.",
+      "price": "₹280",
+      "category": "Beef"
+    },
+    {
+      "id": 20,
+      "name": "Butter Chicken (Murgh Makhani)",
+      "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
+      "description": "A popular Indian dish made with marinated chicken cooked in a creamy tomato sauce.",
+      "price": "₹270",
+      "category": "Chicken"
+    },
+    {
+      "id": 21,
+      "name": "Thai Green Curry",
+      "image": "https://cdn.dummyjson.com/recipe-images/21.webp",
+      "description": "A flavorful Thai curry made with green curry paste, coconut milk, and vegetables.",
+      "price": "₹300",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 22,
+      "name": "Mango Lassi",
+      "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
+      "description": "A refreshing Indian drink made with mango pulp, yogurt, and a touch of cardamom.",
+      "price": "₹100",
+      "category": "Drink"
+    },
+    {
+      "id": 23,
+      "name": "Italian Tiramisu",
+      "image": "https://cdn.dummyjson.com/recipe-images/23.webp",
+      "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "price": "₹350",
+      "category": "Dessert"
+    },
+    {
+      "id": 24,
+      "name": "Turkish Kebabs",
+      "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
+      "description": "Grilled meat skewers marinated with Turkish spices, served with pita bread.",
+      "price": "₹300",
+      "category": "Beef"
+    },
+    {
+      "id": 25,
+      "name": "Blueberry Banana Smoothie",
+      "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
+      "description": "A delicious and healthy smoothie made with fresh blueberries, bananas, and yogurt.",
+      "price": "₹150",
+      "category": "Drink"
+    },
+    {
+      "id": 26,
+      "name": "Mexican Street Corn (Elote)",
+      "image": "https://cdn.dummyjson.com/recipe-images/26
+
+.webp",
+      "description": "Grilled corn on the cob topped with a creamy, spicy sauce and crumbled cheese.",
+      "price": "₹120",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 27,
+      "name": "Russian Borscht",
+      "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
+      "description": "A hearty beet soup from Russia, often served with sour cream.",
+      "price": "₹200",
+      "category": "Soup"
+    },
+    {
+      "id": 28,
+      "name": "South Indian Masala Dosa",
+      "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
+      "description": "A crispy crepe made from fermented rice batter, filled with a spicy potato filling.",
+      "price": "₹150",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 29,
+      "name": "Lebanese Falafel Wrap",
+      "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
+      "description": "A wrap filled with crispy falafel, fresh vegetables, and tahini sauce.",
+      "price": "₹200",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 30,
+      "name": "Brazilian Caipirinha",
+      "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
+      "description": "A refreshing Brazilian cocktail made with cachaça, lime, and sugar.",
+      "price": "₹250",
+      "category": "Drink"
+    }
+  ],
+  "total": 50,
+  "skip": 0,
+  "limit": 30
+}
+```
